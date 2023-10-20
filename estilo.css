@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.imagen{
+    background-color: #158e02;
+    background-size: auto;
+    padding: 10%;
+}
+.opcion{
+    background-color:#158e02;
+    text-decoration: none;
+}
+.opcion:hover{
+    background-color: #39E506;
+    cursor: pointer;
+}
+#raza{
+    background: #06D1E5;
+    width: 10%;
+}
+#color{
+    background: #B0EEF4;
+    width: 10%;
+}
+#caracteristicas{
+    background: #FFDEFE;
+    width: 10%;
+}
+#atencion{
+    background:#FAFFA6;
+    width: 10%;
+}
